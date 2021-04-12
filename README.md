@@ -1,2 +1,2 @@
 Screenshot
-![image](https://user-images.githubusercontent.com/82375582/114404690-91ae9d80-9bc3-11eb-8256-72a1b703da4a.png)
+![Expense Tracker](https://user-images.githubusercontent.com/82375582/114405160-05e94100-9bc4-11eb-8b5a-36307a31c53c.jpg)
